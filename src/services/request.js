@@ -1,6 +1,6 @@
 import axios from "axios"
 
-let baseURL = "http://localhost:9000"
+let baseURL = "http://137.184.205.54:9000"
 
 // deprecated
 if (process.env.GATSBY_STORE_URL) {
